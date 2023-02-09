@@ -1,0 +1,1 @@
+# Write a function that takes a positive integer as an argument and returns the sum of its digits.
