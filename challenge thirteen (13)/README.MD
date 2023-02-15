@@ -1,0 +1,1 @@
+# Write a function that takes in a string and returns the most common character in the string.
