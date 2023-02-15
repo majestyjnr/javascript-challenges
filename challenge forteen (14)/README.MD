@@ -1,0 +1,1 @@
+# Write a function that takes in a string and determines if it is a palindrome (a word, phrase, or sequence of characters that reads the same backward as forward, e.g. "racecar").
