@@ -1,0 +1,1 @@
+# Write a function that takes in an array of numbers and returns the second lowest and second greatest numbers in the array. If there are duplicates, return only one instance, and if there are less than 2 values in the array, return the same value for both.
