@@ -1,0 +1,1 @@
+# Write a function that takes in an array of integers and returns the sum of the two lowest positive integers. If the input array contains less than two positive integers, the function should return 0.
