@@ -1,1 +1,1 @@
-M
+# A collection of Basic JavsScript Challenges
